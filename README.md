@@ -62,4 +62,7 @@ This repository documents practical AWS labs completed during the **AWS re/Start
 - **CloudFormation**, **IAM**, **Tagging**
 
 ---
+## 🔗 AWS re/Start Labs Video Walkthrough
+
+For a complete video walkthrough of all AWS re/Start labs, check out [Anand K's YouTube playlist](https://www.youtube.com/watch?v=rZGtuIdmAgo&list=PLZ0gjp0MHyEva0XmT3JHDeYhAEGd5s-3-) — it covers each lab in detail and is a great companion to the PDF exercises.
 
